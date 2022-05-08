@@ -1,16 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px;" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px;" />
 </div>  
   
 
-### <div align="center">I'm Piotr Trybisz, a programming enthusiast 👨‍💻 from Gdańsk, Poland 🚀</div>  
+## <div align="center">I'm Piotr Trybisz</div>  
   
+
+- :octocat: Programming enthusiast from Poland
 
 - 🔭 High school student  
-  
 
 - ♂️ he/him  
-  
+
+
+>### Talk is cheap. Show me the code.
+>Linus Torvalds
 
 <br/>  
 
