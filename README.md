@@ -7,6 +7,8 @@
 - :octocat: Programming enthusiast from Poland
 
 - :man_student: Computer Science student @ Gdańsk University of Technology
+  -  :lion: Member of the Committee for Development of the IT Structure at <a href="https://samorzad.pg.edu.pl/en" target="_blank">Gdańsk Tech Students’ Union</a>
+  -  :man_office_worker: Member of the Board of <a href="https://knping.pl/" target="_blank">PING Cyber-security and Computer Networks Science Club</a>
 
 - :zap: Interested in: Web Development, Cybersecurity
 
@@ -78,7 +80,14 @@
 <a href="https://linkedin.com/in/piotr-trybisz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/sponsors/PetrusTryb" target="_blank">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/PetrusTryb?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://paypal.me/ptrybisz" target="_blank">
+<img alt="Paypal" src="https://img.shields.io/badge/paypal-blue?&style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
 </div>  
+
   
 
 <br/>  
