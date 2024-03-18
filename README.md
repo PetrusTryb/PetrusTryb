@@ -88,7 +88,8 @@
 </a>
 </div>  
 
-  
+> [!TIP]
+> You can now access all my repositories at `git.trybisz.com/<repo-name>`, for example: <a href="https://git.trybisz.com/school-hacks" target="_blank">git.trybisz.com/school-hacks</a>
 
 <br/>  
 
